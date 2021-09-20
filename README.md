@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @solucoesdigitaisx
 - 👀 I’m interested in Web Development & Design
 - 🌱 I’m currently learning Python & Go
-- 💞️ I’m looking to collaborate on Python Web projects
+- 💞️ I’m looking to collaborate on Python Web projects and in Web Design in general
 - 📫 How to reach me: solucoesdigitaisx@outlook.com
 
 <!---
